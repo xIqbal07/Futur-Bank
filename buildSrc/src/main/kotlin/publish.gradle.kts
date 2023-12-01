@@ -61,7 +61,7 @@ publishing {
                     version = "$version-SNAPSHOT"
                 }
                 description.set("A template for Kotlin Android projects")
-                url.set("https://github.com/cortinico/kotlin-android-template/")
+                url.set("https://github.com/xiqbal07/futurbank/")
 
                 licenses {
                     license {
@@ -71,18 +71,18 @@ publishing {
                 }
                 developers {
                     developer {
-                        id.set("cortinico")
-                        name.set("Nicola Corti")
+                        id.set("xiqbal07")
+                        name.set("xiqbal07")
                     }
                 }
                 scm {
-                    connection.set("scm:git:git://github.com/cortinico/kotlin-android-template.git")
-                    developerConnection.set("scm:git:ssh://github.com/cortinico/kotlin-android-template.git")
-                    url.set("https://github.com/cortinico/kotlin-android-template/")
+                    connection.set("scm:git:git://github.com/xiqbal07/futurbank.git")
+                    developerConnection.set("scm:git:ssh://github.com/xiqbal07/futurbank.git")
+                    url.set("https://github.com/xiqbal07/futurbank/")
                 }
                 issueManagement {
                     system.set("GitHub Issues")
-                    url.set("https://github.com/cortinico/kotlin-android-template/issues")
+                    url.set("https://github.com/xiqbal07/futurbank/issues")
                 }
             }
         }
